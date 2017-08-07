@@ -21,7 +21,8 @@ permalink: /research/
 ## Publications
 
 1.	**First detection of cosmic microwave background lensing and Lyman-α forest bispectrum**. **Cyrille Doux**, Emmanuel Schaan, Eric Aubourg, Ken Ganga, Khee-Gan Lee, David N. Spergel, Julien Tréguer. *Physical Review D*, 94, 103506. [arXiv:1607.03625](https://arxiv.org/abs/1607.03625) (2016).
-    *We detected a correlation between the amplitude of the fluctuations in the Lyman-α forest and CMB lensing convergence along the same line of sight, a purely non-linear effect*.
+    *We detected a correlation between the amplitude of the fluctuations in the Lyman-α forest and CMB lensing convergence along the same line of sight, a purely non-linear effect.*
+    A [non-technical synopsis](https://physics.aps.org/synopsis-for/10.1103/PhysRevD.94.103506) on APS's *Physics* magazine came the publication of the article.
 
 2.	**Cosmological constraints from a joint analysis of cosmic microwave background and large-scale structure**. **Cyrille Doux**, Mariana Penna-Lima, Sandro D. P. Vitenti, Julien Tréguer, Eric Aubourg and Ken Ganga. [arXiv:1706.04583](https://arxiv.org/abs/1706.04583) (2017).
-    *We develop a method to analyze simultaneously galaxy clustering, CMB lensing and CMB temperature fluctuations that includes cross-correlations and apply it to Planck and SDSS-III/BOSS data.*
+    *We develop a method to analyze simultaneously galaxy clustering, CMB lensing and CMB temperature fluctuations that includes cross-correlations and apply it to Planck and SDSS-III/BOSS data to constrain the wCDM model and the mass of neutrinos.*
