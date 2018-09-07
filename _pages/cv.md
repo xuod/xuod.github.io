@@ -7,6 +7,8 @@ PDF versions: [long](https://drive.google.com/file/d/0Bzx2VQQHJy5ybEJvSkRkVnpaRG
 
 ## Research experience
 
+**2018-** Postdoc at the [Department of Physics and Astronomy](http://www.physics.upenn.edu/) of the [University of Pennsylvania](www.upenn.edu) with Prof. Bhuvnesh Jain. I'm also affiliated with the [Warren Center for Data and Network Sciences](http://warrencenter.upenn.edu/) as a postdoc fellow.
+
 **2014-2018** PhD at [Laboratoire AstroParticule et Cosmologie](http://www.apc.univ-paris7.fr/APC_CS/) with [Ken Ganga](http://www.apc.univ-paris7.fr/~ganga/) and Eric Aubourg on the *Combination of cosmological probes*. I visited Princeton multiple times to work with [Prof David Spergel](http://www.astro.princeton.edu/~dns/) and [Emmanuel Schaan](http://www.princeton.edu/~eschaan/) and participated to 3 [LSST DESC](http://lsst-desc.org/) meetings (Oxford, SLAC & BNL). My publications are on the arXiv [here](http://arxiv.org:443/find/astro-ph/1/au:+doux_c/0/1/0/all/0/1). I teach tutorial classes on newtonian mechanics to maths freshmen.
 
 **2013** Research internship at [Berkeley Lab](http://www.lbl.gov) with [Bob Cahn](http://phyweb.lbl.gov/~rncahn/www/cahn.html) on the BigBOSS galaxy survey (now [DESI](http://desi.lbl.gov/)).
