@@ -3,7 +3,7 @@ title: Hi there!
 permalink: /
 ---
 
-I'm a postdoctoral researcher working in the field of cosmology at the [Department of Physics and Astronomy](http://www.physics.upenn.edu/) of the [University of Pennsylvania](www.upenn.edu) with Prof Bhuvnesh Jain. I'm also postdoctoral fellow at the [Warren Center for Data and Network Sciences](http://warrencenter.upenn.edu/).
+I'm a postdoctoral researcher working in the field of cosmology at the [Department of Physics and Astronomy](http://www.physics.upenn.edu/) of the [University of Pennsylvania](http://www.upenn.edu) with Prof Bhuvnesh Jain. I'm also postdoctoral fellow at the [Warren Center for Data and Network Sciences](http://warrencenter.upenn.edu/).
 
 I mainly work in the field of observational cosmology, with an interest on multi-probe analysis, i.e. combining large galaxy surveys (DES, LSST) and cosmic microwave background observations to measure cross-correlations and better constrain cosmological models. I'm also interested in tackling various problems related to gravitational lensing in galaxy surveys with bayesian deep-learning techniques, such as deblending or galaxy interactions in clusters. Finally, I am also keen on more theoretical matters, such as dark energy and (loop) quantum cosmology.
 
