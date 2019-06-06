@@ -3,7 +3,7 @@ title: Curriculum Vitæ
 permalink: /cv/
 ---
 
-PDF versions: [long](https://drive.google.com/file/d/0Bzx2VQQHJy5ybEJvSkRkVnpaRGc/view?usp=sharing) and [short](https://drive.google.com/file/d/0Bzx2VQQHJy5yRHF4LVRoLWlMMEU/view?usp=sharing).
+PDF [here](https://drive.google.com/file/d/1Fx9PAZDBkypVU2v97pps6geS-Wn5N5qH/view?usp=sharing).
 
 ## Research experience
 
